@@ -1,4 +1,40 @@
-h1 
+p
 {
-	color: red;
+	width: 50%;
+	min-width: 400px;
+	border: 1px solid black;
+	text-align: justify-all;
+	padding: 12px;
+}
+#entête
+{
+	display: flex;
+
+}
+
+.menu
+{
+	margin: 20px;
+}
+nav
+{
+	float: right;
+}
+div
+{
+	background-image: url("fond_entête.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	opacity: 1;
+}
+p
+{
+	width: 80%;
+	text_align: justify;
+	margin_left: auto;
+}
+ul 
+{
+	list-style-type: none;
 }
